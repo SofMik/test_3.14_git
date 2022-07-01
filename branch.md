@@ -11,7 +11,7 @@ git branch
 пример:
 git branch newImage
 
-## checkout -b 
+## Второй вариант - это команда checkout -b 
 
 ### **git checkout -b *[наименование]*** — создать новую ветку и переключиться на неё.
 
