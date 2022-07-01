@@ -12,6 +12,6 @@ git merge bugFix
 
 git checkout bugFix, git merge main
 
-Есть второй вариант - команда [**git rebase**](./rebase).
+Есть второй вариант - команда [**git rebase**](./rebase.md).
 
 [<Перейти к Содержанию>](./readme.md)
