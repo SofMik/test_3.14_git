@@ -22,3 +22,5 @@ git checkout -b
 
 пример:
 git checkout -b newImage
+
+[<Перейти к Содержанию>](./readme.md)

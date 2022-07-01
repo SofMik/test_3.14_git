@@ -13,3 +13,5 @@ git merge
 git merge bugFix
 
 git checkout bugFix, git merge main
+
+[<Перейти к Содержанию>](./readme.md)

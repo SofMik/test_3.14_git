@@ -7,3 +7,4 @@
 ```bash=
 git bisect
 ```
+[<Перейти к Содержанию>](./readme.md)

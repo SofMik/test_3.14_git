@@ -15,3 +15,5 @@ git rebase
 сдвинуть наши изменения из bugFix прямо на вершину ветки main:
 git rebase main
 git rebase bugFix
+
+[<Перейти к Содержанию>](./readme.md)

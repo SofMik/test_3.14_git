@@ -7,3 +7,5 @@
 ```bash=
 git --version
 ```
+
+[<Перейти к Содержанию>](./readme.md)
